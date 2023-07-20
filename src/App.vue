@@ -5,22 +5,8 @@
 </div>
    <h1>STAR WARS</h1><hr>
    <h5>ingrese la siguiente informacion</h5><hr>
-   
-   <!--<test msg="hola!!!!"/>-->
   
-   <User name/>
-   
-   <!--<nav>
-    <ul>
-      <li>
-        <a href="#">test</a>
-      </li>
-      <li>
-        <a href="#">User</a>
-      </li>
-    </ul>
-   </nav>
-   <router-view></router-view>-->
+   <User/>
    
   </div>
 </template>
